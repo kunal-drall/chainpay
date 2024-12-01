@@ -112,10 +112,10 @@ bash
 Copy code
 git checkout -b feature-name
 Submit a pull request.
-📞 Contact Us
-Join the ChainPay revolution!
 
-Discord: Join the community
+
+Team Name: Gryfinddor
 Documentation: Explore the docs
-Email: contact@chainpay.io
+Email: kunaldrall29@gmail.com
+Developed by- Kunal
 Transforming Payments, One Block at a Time.
